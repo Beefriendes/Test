@@ -46,7 +46,6 @@ int main() {
       cin >> input;
       data.push_back( input );
       data_num.push_back( temp );
-     // cout << data_num[i];
     }
   
     for ( int x = 0; x < column; x++ ) {
